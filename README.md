@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Muhammad Hanif Al Hazmi 👋 I'm a 🚀 IoT Enthusiast 🚀 Let's ❤️ Collaborate with me ❤️">
-</p>
+
 
 ---
 
