@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+**<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&center=true&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Let’s+build+something+amazing!" />
@@ -63,3 +63,4 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="Visitor Count" />
 </p>
+**
