@@ -1,7 +1,5 @@
-<h1 align="center">Hi there, I'm Muhammad Hanif Al HAzmi 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&center=true&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Let’s+build+something+amazing!" />
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Muhammad Hanif Al Hazmi 👋 I'm a 🚀 IoT Enthusiast 🚀 Let's ❤️ Collaborate with me ❤️">
 </p>
 
 ---
