@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Friends;I'm+Muhammad+Hanif+Al+Hazmi;Let's+collaborate+with+me" alt="Typing SVG"/>
+    <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Friends;I'm+Muhammad+Hanif+Al+Hazmi;Let's+collaborate+with+me" alt="Typing SVG"/>
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
