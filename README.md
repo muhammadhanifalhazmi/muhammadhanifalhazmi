@@ -1,16 +1,15 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhammadhanifalhazmi.muhammadhanifalhazmi" />
 
 <h1 align="center">
     <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Friends;I'm+Muhammad+Hanif+Al+Hazmi;Let's+collaborate+with+me" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Web Dev - Android Dev - IoT Enthusiast</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **IoT Project**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
