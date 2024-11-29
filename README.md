@@ -1,11 +1,6 @@
 
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula&row=1&no-frame=true" alt="Trophies" />
-</p>
-
 ### 🌟 About Me:
 - 🚀 Passionate about **[Your Interest: AI, Web Development, etc.]**  
 - 🏆 Current focus: **[Your Current Project or Tech Stack]**  
