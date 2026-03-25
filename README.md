@@ -1,9 +1,165 @@
 <div align="center">
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Hanif%20Alhazmi&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Frontend Web%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20&descAlignY=58&descSize=16&descColor=8b949e"/>
-<!-- Typing SVG -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Hanif%20Alhazmi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Frontend%20Web%20Developer&descAlignY=58&descSize=18&descColor=a5d8ff"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Passionate+about+clean+code+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C±;Open+to+exciting+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer+%F0%9F%96%A5%EF%B8%8F;Crafting+beautiful+%26+responsive+UIs+%F0%9F%8E%A8;React+%7C+Next.js+%7C+Tailwind+CSS+%E2%9A%A1;Turning+designs+into+pixel-perfect+reality+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
 <br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=muhammadhanifalhazmi&label=Profile+Views&color=0ea5e9&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/muhammadhanifalhazmi?label=Followers&style=flat-square&color=0ea5e9"/>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```typescript
+const hanif: Developer = {
+  name:      "Muhammad Hanif Alhazmi",
+  role:      "Frontend Web Developer",
+  location:  "Indonesia 🇮🇩",
+  focus:     "Building fast, accessible & beautiful web experiences",
+  skills:    ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  currently: "Sharpening UI/UX skills & exploring web animations",
+  collab:    "Open to freelance & open-source projects 🤝",
+  contact:   "muhammadhanifalhazmi@gmail.com",
+  motto:     "Code is poetry — write it beautifully 🎨"
+};
+```
+
+- 🔭 &nbsp;Currently building **responsive & performant web apps**
+- 🌱 &nbsp;Deepening expertise in **React, Next.js 14, and Web Animations**
+- 🎨 &nbsp;Passionate about **UI/UX, design systems, and accessibility**
+- 💬 &nbsp;Ask me about **HTML, CSS, JavaScript, React, or frontend best practices**
+- ⚡ &nbsp;Fun fact: I obsess over **pixel-perfect** layouts and smooth transitions
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Core**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=muhammadhanifalhazmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhanifalhazmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhanifalhazmi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadhanifalhazmi&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhanifalhazmi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=0d1117&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="working gif"/>
+</div>
+
+```
+🚧  Personal portfolio v2       ████████░░░░  65%
+📦  UI component library        ██████░░░░░░  50%
+📚  Next.js 14 deep dive        ████████████  Learning...
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muhammadhanifalhazmi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/muhammadhanifalhazmi">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:muhammadhanifalhazmi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://muhammadhanifalhazmi.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/muhammadhanifalhazmi">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70"/>
+
+**"First, solve the problem. Then, write the code."**
+
+<br/>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
 </div>
