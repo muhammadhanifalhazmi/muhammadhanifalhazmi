@@ -33,7 +33,7 @@ const hanif: Developer = {
   comingSoon:["React", "Node.js", "Tailwind CSS"],
   currently: "Expanding into modern frontend frameworks 🚀",
   collab:    "Open to freelance & open-source projects 🤝",
-  contact:   "muhammadhanifalhazmi@gmail.com",
+  contact:   "mehmedhanifalhazmi@gmail.com",
   motto:     "Code is poetry — write it beautifully 🎨"
 };
 ```
@@ -107,14 +107,6 @@ const hanif: Developer = {
 
 <br/>
 
-<!-- Row 1 -->
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadhanifalhazmi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=4&rank=SECRET,SSS,SS,S,AAA"/>
-
-<!-- Row 2 -->
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadhanifalhazmi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=4&rank=AA,A,B,C"/>
-
-<br/>
-
 <details>
 <summary>🎖️ <b>What do these trophies mean?</b> (click to expand)</summary>
 <br/>
@@ -162,23 +154,23 @@ const hanif: Developer = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/muhammadhanifalhazmi">
+<a href="https://www.linkedin.com/in/muhammad-hanif-al-hazmi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/muhammadhanifalhazmi">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://www.tiktok.com/@neeeeep">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:muhammadhanifalhazmi@gmail.com">
+<a href="mailto:mehmedhanifalhazmi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://muhammadhanifalhazmi.dev">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://muhammad-hanif-al-hazmi.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firebase&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/muhammadhanifalhazmi">
+<a href="https://www.instagram.com/muhammadhanif_al/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
