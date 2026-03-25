@@ -29,8 +29,9 @@ const hanif: Developer = {
   role:      "Frontend Web Developer",
   location:  "Indonesia 🇮🇩",
   focus:     "Building fast, accessible & beautiful web experiences",
-  skills:    ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  currently: "Sharpening UI/UX skills & exploring web animations",
+  skills:    ["Laravel", "PHP", "Flutter", "Dart", "Python", "Bootstrap"],
+  comingSoon:["React", "Node.js", "Tailwind CSS"],
+  currently: "Expanding into modern frontend frameworks 🚀",
   collab:    "Open to freelance & open-source projects 🤝",
   contact:   "muhammadhanifalhazmi@gmail.com",
   motto:     "Code is poetry — write it beautifully 🎨"
@@ -49,29 +50,37 @@ const hanif: Developer = {
 
 <div align="center">
 
-**Core**
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**🚀 Coming Soon...**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&label=coming+soon&labelColor=1a1a2e)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&label=coming+soon&labelColor=1a1a2e)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&label=coming+soon&labelColor=1a1a2e)
 
 </div>
 
@@ -93,7 +102,36 @@ const hanif: Developer = {
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadhanifalhazmi&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+
+> *"No victory is more precious than defeating your own laziness."* 🦁
+
+<br/>
+
+<!-- Row 1 -->
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadhanifalhazmi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=4&rank=SECRET,SSS,SS,S,AAA"/>
+
+<!-- Row 2 -->
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadhanifalhazmi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=4&rank=AA,A,B,C"/>
+
+<br/>
+
+<details>
+<summary>🎖️ <b>What do these trophies mean?</b> (click to expand)</summary>
+<br/>
+
+| Trophy | What it measures |
+|--------|-----------------|
+| 🌟 Stars | Total stars earned across all repos |
+| 🔀 Commits | Total commits pushed |
+| 🐛 Issues | Issues opened |
+| 🤝 PRs | Pull requests merged |
+| 👥 Followers | GitHub followers |
+| 📦 Repos | Public repositories created |
+| 🔍 Reviews | Pull request reviews done |
+| 📅 Experience | Years active on GitHub |
+
+</details>
+
 </div>
 
 ---
@@ -156,7 +194,7 @@ const hanif: Developer = {
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70"/>
 
-**"First, solve the problem. Then, write the code."**
+**"No victory is more precious than defeating your own laziness."** 💪
 
 <br/>
 
