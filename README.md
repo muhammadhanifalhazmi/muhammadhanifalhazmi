@@ -25,7 +25,7 @@
 
 ```typescript
 const hanif: Developer = {
-  name:      "Muhammad Hanif Alhazmi",
+  name:      "Muhammad Hanif Al Hazmi",
   role:      "Frontend Web Developer",
   location:  "Indonesia 🇮🇩",
   focus:     "Building fast, accessible & beautiful web experiences",
