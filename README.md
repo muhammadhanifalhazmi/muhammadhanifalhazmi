@@ -86,10 +86,6 @@ const hanif: Developer = {
 
 ---
 
-## 📊 GitHub Stats
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
