@@ -90,9 +90,6 @@ const hanif: Developer = {
  
 <div align="center">
  
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=muhammadhanifalhazmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhanifalhazmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
- 
 <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhanifalhazmi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e"/>
  
 </div>
