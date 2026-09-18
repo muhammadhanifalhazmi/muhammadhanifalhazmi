@@ -91,16 +91,6 @@ Hi! I'm **Hanif**, a Software & IoT Engineer from Indonesia 🇮🇩. I love bui
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadhanifalhazmi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🎯 Currently Exploring
 
 <div align="center">
@@ -122,18 +112,6 @@ Hi! I'm **Hanif**, a Software & IoT Engineer from Indonesia 🇮🇩. I love bui
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
-</div>
-
----
-
-## 📈 Weekly Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadhanifalhazmi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="WakaTime Stats" />
-
-> 💡 *Widget ini butuh integrasi WakaTime aktif di akunmu agar datanya tampil.*
 
 </div>
 
