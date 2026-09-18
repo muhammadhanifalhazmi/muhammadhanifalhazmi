@@ -91,56 +91,6 @@ Hai! Saya **Hanif**, Software & IoT Engineer dari Indonesia 🇮🇩. Saya suka 
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/muhammadhanifalhazmi/iot-smart-home">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhanifalhazmi&repo=iot-smart-home&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=8b5cf6" alt="iot-smart-home" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/muhammadhanifalhazmi/portfolio-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhanifalhazmi&repo=portfolio-v2&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=8b5cf6" alt="portfolio-v2" />
-</a>
-
-> 💡 *Ganti nama repo di atas dengan repo pin favoritmu — widget ini hanya tampil jika repo tersebut publik.*
-
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadhanifalhazmi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Hanif's Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhanifalhazmi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Hanif's Top Languages"/>
-
-<br><br>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=muhammadhanifalhazmi&hide_border=true&background=0d1117&ring=38bdf8&fire=8b5cf6&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Hanif's Streak"/>
-
-<br><br>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhanifalhazmi&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&area_color=0d1117&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<details>
-<summary>🐍 <b>Klik untuk melihat Contribution Snake Animation</b></summary>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadhanifalhazmi/muhammadhanifalhazmi/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/muhammadhanifalhazmi/muhammadhanifalhazmi/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> ⚙️ Snake ini hanya muncul setelah kamu mengaktifkan GitHub Action `snake` di repo `muhammadhanifalhazmi/muhammadhanifalhazmi`.
-
-</details>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -164,9 +114,5 @@ Hai! Saya **Hanif**, Software & IoT Engineer dari Indonesia 🇮🇩. Saya suka 
 <a href="https://www.instagram.com/muhammadhanif_al/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-<br><br>
-
-<img src="https://profile-counter.glitch.me/muhammadhanifalhazmi/count.svg" alt="visitor counter" />
 
 </div>
