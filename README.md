@@ -18,24 +18,24 @@
 
 ---
 
-## 👋 Tentang Saya
+## 👋 About Me
 
-Hai! Saya **Hanif**, Software & IoT Engineer dari Indonesia 🇮🇩. Saya suka membangun sistem yang menghubungkan **dunia fisik dan digital** — mulai dari firmware ESP32, REST API dengan Laravel, hingga aplikasi Flutter yang rapi dan responsif.
+Hi! I'm **Hanif**, a Software & IoT Engineer from Indonesia 🇮🇩. I love building systems that connect the **physical and digital world** — from ESP32 firmware, REST APIs with Laravel, to clean and responsive Flutter apps.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-- 🔭 &nbsp;Membangun sistem **IoT smart home & smart garden**
-- 🌱 &nbsp;Mendalami **React, Next.js & Tailwind CSS**
+- 🔭 &nbsp;Building **IoT smart home & smart garden** systems
+- 🌱 &nbsp;Leveling up in **React, Next.js & Tailwind CSS**
 - 🎨 &nbsp;Obsessed with **clean UI, real-time data visualization**
 
 </td>
 <td width="50%" valign="top">
 
-- 🤝 &nbsp;Terbuka untuk **freelance & kolaborasi**
+- 🤝 &nbsp;Open to **freelance & collaboration**
 - 📫 &nbsp;**mehmedhanifalhazmi@gmail.com**
-- 🎯 &nbsp;Fokus pada eksplorasi project pribadi & open-source
+- 🎯 &nbsp;Focused on personal & open-source project exploration
 
 </td>
 </tr>
@@ -43,12 +43,12 @@ Hai! Saya **Hanif**, Software & IoT Engineer dari Indonesia 🇮🇩. Saya suka 
 
 ---
 
-## 💼 Yang Saya Kerjakan
+## 💼 What I Do
 
 | 🌐 Web & Backend | 📱 Mobile Apps | 📡 IoT & Embedded |
 | :--- | :--- | :--- |
 | Laravel · PHP · REST API · Firebase · MySQL | Flutter · Dart (Android & iOS) | ESP32 · Arduino · MQTT · Sensor Network |
-| Performant, responsif, dan scalable | UI native-feeling, satu codebase | Device → Cloud → Real-time Dashboard |
+| Performant, responsive, and scalable | Native-feeling UI, single codebase | Device → Cloud → Real-time Dashboard |
 
 ---
 
