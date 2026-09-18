@@ -91,6 +91,54 @@ Hi! I'm **Hanif**, a Software & IoT Engineer from Indonesia 🇮🇩. I love bui
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadhanifalhazmi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Computer_Vision-6366f1?style=for-the-badge" alt="Computer Vision"/>
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## 📈 Weekly Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadhanifalhazmi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="WakaTime Stats" />
+
+> 💡 *Widget ini butuh integrasi WakaTime aktif di akunmu agar datanya tampil.*
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
