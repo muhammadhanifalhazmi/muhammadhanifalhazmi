@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:#ec4899">Muhammad</span> <span style="color:#8b5cf6">Hanif</span> <span style="color:#0ea5e9">Al Hazmi</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:0ea5e9&height=140&section=header&text=Muhammad%20Hanif%20Al%20Hazmi&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&fontFamily=Poppins" alt="Muhammad Hanif Al Hazmi" width="100%" />
 
 ### 🚀 Software & IoT Engineer
 
