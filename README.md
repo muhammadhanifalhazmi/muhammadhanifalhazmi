@@ -1,6 +1,3 @@
-Ini dia kode lengkapnya — copy semuanya di dalam blok di bawah ini, lalu paste ke file `README.md` kamu (ganti total yang lama):
-
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9;100:6366f1&height=200&section=header&text=Muhammad%20Hanif%20Al%20Hazmi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Software%20%26%20IoT%20Engineer&descAlignY=56&descSize=18&descColor=e0e7ff"/>
