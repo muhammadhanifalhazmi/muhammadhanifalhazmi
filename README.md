@@ -1,119 +1,152 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117;50:1c1917;100:0d1117&height=180&section=header&text=HNF%20CONTROL%20SYSTEMS&fontSize=36&fontColor=fbbf24&fontAlignY=42&desc=Software%20%26%20IoT%20Engineer%20%E2%80%94%20Monitoring%20Panel%20v2.4&descAlignY=62&descSize=14&descColor=94a3b8&stroke=f59e0b&strokeWidth=1"/>
+<img width="100%" alt="Muhammad Hanif Al Hazmi — Software & IoT Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899;50:8b5cf6;100:0ea5e9&height=280&section=header&text=Muhammad%20Hanif%20Al%20Hazmi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%F0%9F%9A%80%20SOFTWARE%20%26%20IoT%20ENGINEER%20%F0%9F%9A%80&descSize=24&descColor=fde047&descAlignY=58&descAnimation=fadeIn"/>
 
 <br/>
 
-![status](https://img.shields.io/badge/SYSTEM_STATUS-%E2%97%8F_OPERATIONAL-22c55e?style=flat-square&labelColor=0d1117)
-![views](https://komarev.com/ghpvc/?username=muhammadhanifalhazmi&label=SESSIONS&color=f59e0b&style=flat-square)
-![followers](https://img.shields.io/github/followers/muhammadhanifalhazmi?label=OPERATORS&style=flat-square&color=f59e0b)
-![zone](https://img.shields.io/badge/ZONE-Indonesia_%F0%9F%87%AE%F0%9F%87%A9-f59e0b?style=flat-square&labelColor=0d1117)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Firmware+%E2%87%84+Cloud+%E2%87%84+Interface+%F0%9F%94%97;ESP32+%7C+Laravel+%7C+Flutter+%7C+Python+%E2%9A%A1;Building+things+that+sense%2C+think+%26+connect+%F0%9F%8C%90" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=FBBF24&center=true&vCenter=true&width=660&height=50&lines=All+systems+nominal.+Sensors+online.+%F0%9F%9F%A2;Streaming+telemetry%3A+ESP32+%E2%86%92+MQTT+%E2%86%92+Cloud+%E2%86%92+Dashboard;Warning%3A+operator+running+on+high+caffeine+%E2%9A%A0%EF%B8%8F" alt="Typing SVG"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=muhammadhanifalhazmi&label=Profile+Views&color=0ea5e9&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/muhammadhanifalhazmi?label=Followers&style=flat-square&color=6366f1"/>
+  <img src="https://img.shields.io/badge/FOCUS-Software_%2B_IoT-8b5cf6?style=flat-square"/>
+</p>
 
 </div>
 
-```text
-┌─[ BOOT SEQUENCE ]────────────────────────────────────┐
-│  [ OK ] Core systems .............. initialized      │
-│  [ OK ] Sensor array (12/12) ...... online           │
-│  [ OK ] MQTT broker ............... connected        │
-│  [ OK ] Cloud sync ................ active           │
-│  [ .. ] Curiosity module .......... loading... ∞     │
-└──────────────────────────────────────────────────────┘
-```
+---
 
-## 🎛️ PANEL 01 — Operator Profile
+## 👋 About Me
 
-```text
-┌──────────────────────────────────────────────────────┐
-│   ID        : HNF-001                                │
-│   NAME      : Muhammad Hanif Al Hazmi                │
-│   ROLE      : Software & IoT Engineer                │
-│   ZONE      : Indonesia 🇮🇩                           │
-│   SPECIALTY : Firmware ⇄ Cloud ⇄ Interface            │
-│   CLEARANCE : Freelance · Open Source · Collab       │
-│   CONTACT   : mehmedhanifalhazmi@gmail.com           │
-└──────────────────────────────────────────────────────┘
-```
+Hi! I'm **Hanif**, a **Software & IoT Engineer** from Indonesia 🇮🇩 who loves building things that connect the **physical and digital world** — from writing firmware for ESP32, crafting REST APIs with Laravel, to shipping beautiful Flutter apps.
 
-```text
-COFFEE_RESERVE  ▓▓▓▓▓▓▓▓░░  82%   [ REFILL SOON ]
-```
+- 🔭 &nbsp;Currently building **IoT smart home systems** (ESP32 + MQTT + live dashboard)
+- 🌱 &nbsp;Leveling up in **React, Next.js & Tailwind CSS**
+- 🎨 &nbsp;Obsessed with **clean UI, real-time data visualization & smooth animations**
+- 🤝 &nbsp;Open to **freelance projects & open-source collaboration**
+- 📫 &nbsp;Reach me at **mehmedhanifalhazmi@gmail.com**
 
-## 🧩 PANEL 02 — Installed Modules
+**🎯 Roadmap 2025**
 
-| SLOT | MODULE STACK | STATUS |
-|:---:|---|:---:|
-| `EMB-01` | Arduino · ESP32 · Raspberry Pi · PlatformIO | 🟢 ACTIVE |
-| `BCK-01` | PHP · Laravel · Python · MySQL · Firebase | 🟢 ACTIVE |
-| `MOB-01` | Dart · Flutter | 🟢 ACTIVE |
-| `WEB-01` | HTML · CSS · JavaScript · Bootstrap | 🟢 ACTIVE |
-| `NET-01` | MQTT · REST API · WebSocket · Bluetooth | 🟢 ACTIVE |
-| `EXP-01` | React · Next.js · Tailwind CSS | 🟡 CALIBRATING |
+- [x] Laravel + REST API mastery
+- [x] Ship Flutter apps (Android & iOS)
+- [x] ESP32 + MQTT home automation
+- [ ] Deep dive React & Next.js
+- [ ] Launch portfolio v2 ✨
+- [ ] First major open-source contribution
 
-**📡 Field Deployed Sensors**
+---
 
-| SENSOR ID | DEVICE | STATUS |
-|:---:|---|:---:|
-| `SNS-01` | DHT22 — temperature & humidity | 🟢 LINKED |
-| `SNS-02` | MQ-2 — gas detection | 🟢 LINKED |
-| `SNS-03` | PIR — motion detection | 🟢 LINKED |
-| `SNS-04` | HC-SR04 — ultrasonic distance | 🟢 LINKED |
+## 💼 What I Do
 
-## 📊 PANEL 03 — Telemetry
+| 🌐 **Web & Backend** | 📱 **Mobile Apps** | 📡 **IoT & Embedded** |
+|:---:|:---:|:---:|
+| Laravel · PHP · REST API · Firebase · MySQL | Flutter · Dart — Android & iOS | ESP32 · Arduino · MQTT · Sensor networks |
+| Performant, responsive & scalable | Native-feeling UI, single codebase | Device → cloud → real-time dashboard |
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=muhammadhanifalhazmi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=f59e0b&text_color=94a3b8&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhanifalhazmi&layout=compact&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=94a3b8&langs_count=8"/>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,php,js,html,css&theme=dark"/>
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,firebase,mysql&theme=dark"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark"/>
+
+**🚀 Currently Exploring**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,ts&theme=dark"/>
+
+</div>
+
+---
+
+## 📡 IoT & Embedded Lab
+
+<div align="center">
+
+*Where software meets hardware* ⚙️
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=muhammadhanifalhazmi&hide_border=true&background=0d1117&ring=fbbf24&fire=f97316&currStreakNum=ffffff&currStreakLabel=fbbf24&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b"/>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Sensors](https://img.shields.io/badge/SENSORS-DHT22_%7C_MQ--2_%7C_PIR_%7C_Ultrasonic-22c55e?style=for-the-badge)
 
 </div>
 
-```text
-tail -f /var/log/activity.log
-```
+---
+
+## 🚀 Featured Projects
+
+<!-- ⚠️ PENTING: ganti "iot-smart-home" dan "portfolio-v2" dengan nama repo kamu yang asli -->
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhanifalhazmi&bg_color=0d1117&color=fbbf24&line=f59e0b&point=e2e8f0&area=true&area_color=1c1917&hide_border=true"/>
+<a href="https://github.com/muhammadhanifalhazmi/iot-smart-home">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhanifalhazmi&repo=iot-smart-home&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=8b5cf6"/>
+</a>
+<a href="https://github.com/muhammadhanifalhazmi/portfolio-v2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadhanifalhazmi&repo=portfolio-v2&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=8b5cf6"/>
+</a>
 
 </div>
 
-## ⚙️ PANEL 04 — Process Monitor
+---
 
-```text
-PID    PROCESS                        LOAD         STATUS
-────   ──────────────────────────     ──────────   ─────────────
-001    iot-smart-home (esp32+mqtt)    ██████▌░░░   🟢 RUNNING 65%
-002    portfolio-v2                   ████▌░░░░░   🟢 RUNNING 45%
-003    react-next-tailwind            ░░░░░░░░░░   🟡 LEARNING
-```
+## 📊 GitHub Stats
 
-## 📶 PANEL 05 — Comms Network
+<div align="center">
 
-| NODE | CHANNEL | STATUS | LINK |
-|:---:|---|:---:|:---:|
-| `N-01` | LinkedIn | 🟢 LINKED | [→ CONNECT](https://www.linkedin.com/in/muhammad-hanif-al-hazmi/) |
-| `N-02` | TikTok | 🟢 LINKED | [→ CONNECT](https://www.tiktok.com/@neeeeep) |
-| `N-03` | Gmail | 🟢 LINKED | [→ TRANSMIT](mailto:mehmedhanifalhazmi@gmail.com) |
-| `N-04` | Portfolio | 🟢 LINKED | [→ OPEN PANEL](https://muhammad-hanif-al-hazmi.web.app/) |
-| `N-05` | Instagram | 🟢 LINKED | [→ CONNECT](https://www.instagram.com/muhammadhanif_al/) |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadhanifalhazmi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhanifalhazmi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8"/>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=muhammadhanifalhazmi&hide_border=true&background=0d1117&ring=38bdf8&fire=8b5cf6&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhanifalhazmi&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&area_color=0d1117&hide_border=true"/>
+
+</div>
+
+---
 
 <div align="center">
 
 <details>
-<summary>🛠️ <b>AUTO-MAINTENANCE ROUTINE</b> — contribution snake (klik untuk setup)</summary>
+<summary>🐍 <b>Contribution Snake Animation</b> (klik untuk setup)</summary>
 <br/>
 
-Buat file `.github/workflows/snake.yml`:
+Buat file `.github/workflows/snake.yml` di repo profile kamu:
 
 ```yaml
 name: generate snake
@@ -139,6 +172,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+Jalankan workflow-nya sekali, lalu snake akan muncul di sini:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadhanifalhazmi/muhammadhanifalhazmi/output/github-contribution-grid-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/muhammadhanifalhazmi/muhammadhanifalhazmi/output/github-contribution-grid-snake.svg"/>
@@ -150,19 +185,39 @@ jobs:
 
 ---
 
-> ### ⚠️ SAFETY NOTICE #001
-> *"No victory is more precious than defeating your own laziness."*
-
-```text
-┌─[ END OF TRANSMISSION ]──────────────────────────────┐
-│  [LOG] commit pushed — no firmware was harmed        │
-│  [LOG] coffee reserve restored to 100%               │
-│  [LOG] entering standby... see you in next commit    │
-└──────────────────────────────────────────────────────┘
-```
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117;50:1c1917;100:0d1117&height=70&section=footer&stroke=f59e0b&strokeWidth=1"/>
+<a href="https://www.linkedin.com/in/muhammad-hanif-al-hazmi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.tiktok.com/@neeeeep">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mehmedhanifalhazmi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://muhammad-hanif-al-hazmi.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firebase&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/muhammadhanif_al/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9;33:8b5cf6;66:ec4899;100:f59e0b&height=150&section=footer"/>
+
+</div>
+
+
+Commit ke `README.md` dan nama kamu langsung nongol gede dan warna-warni! 🚀
